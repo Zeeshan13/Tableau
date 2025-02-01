@@ -2,7 +2,7 @@
 
 
 ## Netflix Dashboard
-This visually captivating **Netflix Dashboard** provides a detailed analysis of Netflix's extensive content library, offering users an interactive and visually appealing way to explore trends and patterns. Designed with a sleek red and black Netflix-inspired theme, the dashboard combines aesthetics with functionality to provide an engaging user experience.
+This visually captivating [**Netflix Dashboard**](https://public.tableau.com/views/Netflix_17365598504780/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) provides a detailed analysis of Netflix's extensive content library, offering users an interactive and visually appealing way to explore trends and patterns. Designed with a sleek red and black Netflix-inspired theme, the dashboard combines aesthetics with functionality to provide an engaging user experience.
 
 At the center of the dashboard is an interactive **world map** that visualizes the total number of movies and TV shows available by country. The color intensity represents the volume of content, allowing users to quickly identify regions with a higher concentration of Netflix offerings. Complementing this, a **packed bubble chart** showcases the distribution of content types, with 68.42% being movies and 31.58% TV shows, providing an intuitive representation of the platform's content mix.
 
@@ -22,7 +22,7 @@ This dashboard serves as a powerful portfolio piece, showcasing expertise in dat
 
 ## House Sales Analysis Dashboard  
 
-This visually captivating House Sales Analysis Dashboard provides an interactive and comprehensive exploration of housing market trends, designed to offer valuable insights for buyers, sellers, and real estate professionals. The dashboard combines aesthetic appeal with actionable analytics, making it an essential tool for real estate analysis.  
+This visually captivating [**House Sales Analysis Dashboard**](https://public.tableau.com/views/HouseSalesDashboard_17364857450880/HouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) provides an interactive and comprehensive exploration of housing market trends, designed to offer valuable insights for buyers, sellers, and real estate professionals. The dashboard combines aesthetic appeal with actionable analytics, making it an essential tool for real estate analysis.  
  
 At the top of the dashboard, an intuitive filter panel allows users to refine their analysis based on **year built**, **square footage of living area**, **square footage of the lot**, and **price range**. These filters make the insights customizable, catering to specific user needs.  
 
@@ -47,7 +47,7 @@ This dashboard is a testament to expertise in Tableau, data visualization, and s
 
 ## British Airways Interactive Dashboard Description
 
-The British Airways Interactive Dashboard is a dynamic and user-centric tool designed to provide a comprehensive analysis of the airline's performance metrics and customer reviews. It offers a seamless and engaging experience, allowing users to explore data in real-time through interactive filters, visualizations, and drill-down capabilities. This dashboard is tailored to deliver actionable insights, making it an invaluable resource for stakeholders looking to understand and improve the airline's service quality.  
+The [**British Airways Interactive Dashboard**](https://public.tableau.com/views/BritishAirwaysReviews_17363674231120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) is a dynamic and user-centric tool designed to provide a comprehensive analysis of the airline's performance metrics and customer reviews. It offers a seamless and engaging experience, allowing users to explore data in real-time through interactive filters, visualizations, and drill-down capabilities. This dashboard is tailored to deliver actionable insights, making it an invaluable resource for stakeholders looking to understand and improve the airline's service quality.  
 
 At the core of the dashboard is the **overall rating of 4.2**, which serves as a central metric derived from customer feedback. Users can delve deeper into specific service categories, such as cabin staff service (3.3), entertainment (1.4), food and beverages (2.4), ground service (3.0), seat comfort (2.9), and value for money (2.8). Each category is presented with interactive features, enabling users to click on a metric to view trends, comparisons, and detailed breakdowns over time. This functionality helps identify areas of strength and opportunities for improvement.  
 
